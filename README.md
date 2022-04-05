@@ -72,5 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### TECHNOLOGY USED
 
 React
+
 Javascript, HTML, CSS
+
 Online api from https://www.coingecko.com/
